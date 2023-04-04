@@ -32,3 +32,13 @@ This is a ML project from a newbie trying to predict house price. It's based on 
         - Or bucketizing the data
     - Custom Transformers
     - Transformation Pipelines
+- Seclect and Train a Model
+    - Train and Evaluate on the Training Set
+    - Better evaluation Using Cross-Validation
+- Fine-Tune Your Model
+    - Grid Search
+    - Randomized Search
+    - Ensemble Methods
+    - Analyzing the Best Models and Their Errors
+    - Evaluate Your System on the Test Set
+- Launch, Monitor, and Maintain Your System
